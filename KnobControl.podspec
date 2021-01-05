@@ -10,7 +10,7 @@ spec.license       = "MIT"
 spec.author        = { "Manali Rami" => "73849042+Manali92@users.noreply.github.com" }
 spec.platform      = :ios, "14.2"
 spec.source        = { :git => "https://github.com/manaliMR/KnobControl.git", :tag => "1.0.1" }
-spec.source_files  = "KnobControl","KnobControl/**/*"
-spec.swift_version = "5.0"
+spec.source_files  = 'KnobControl', 'KnobControl/**/*'
+spec.swift_version = "4.2"
 
 end
